@@ -1,0 +1,831 @@
+﻿﻿</>
+ability
+khả năng
+</>
+abrasive
+chất mài mòn
+</>
+absolutely
+hoàn toàn
+</>
+acceleration
+gia tốc,tăng tốc
+</>
+accurate
+chính xác
+</>
+across
+chéo, ngang qua
+</>
+add
+Cộng
+</>
+added
+Cộng vào
+</>
+adjust
+điều chỉnh
+</>
+affect
+Truyền
+</>
+against
+chống lại
+</>
+aircraff
+máy bay
+</>
+allow
+Hợp kim
+</>
+allowances
+Sự cho phép
+</>
+altered
+Thay đổi
+</>
+alternating
+qua lại, xen kẽ
+</>
+although
+mặc dù
+</>
+altitude
+dộ cao so với mực nước biển
+</>
+aluminum
+nhôm
+</>
+among
+Giữa
+</>
+amounts
+Giá trị thực,  tổng số
+</>
+angles
+Xiên góc
+</>
+any
+Bất kì
+</>
+application
+ứng dụng
+</>
+applied
+Áp dụng
+</>
+approximately
+Khoảng chừng
+</>
+area
+Diện tích
+</>
+arrangement
+Sự sắp xếp
+</>
+arrow
+Mũi tên
+</>
+assume
+Giả định
+</>
+attacks
+Tấn công
+</>
+available
+Có sẵn
+</>
+axial
+Trục ,quanh trục
+</>
+axle
+Trục xe
+</>
+balance
+Cân bằng 
+</>
+base
+dáy
+</>
+beam
+Dầm
+</>
+bearings
+ổ đỡ
+</>
+belt
+Dây curoa
+</>
+beyond
+Quá xa
+</>
+block
+Khối
+</>
+bolts
+Then
+</>
+bosss
+May ơ
+</>
+bowls
+Lăn
+</>
+bracket
+Côngxon , rầm chìa
+</>
+brass
+dồng thau
+</>
+breadth
+Bề ngang
+</>
+breaks
+Gãy vỡ
+</>
+brick
+Viên gạch
+</>
+brittle
+Giòn
+</>
+bronze
+dồng thiếc
+</>
+bullet
+Viên đạn
+</>
+bumps
+Chỗ lồi
+</>
+calipers
+Compa đo ngoài
+</>
+capacity
+Dung tích
+</>
+carry
+Mang
+</>
+cast
+Khuôn,đúc
+</>
+castellated
+Kiểu lâu đài cổ
+</>
+centrifugal
+Lực li tâm
+</>
+ceramics
+Gốm
+</>
+certain
+Chắc chắn
+</>
+chaft
+Càng
+</>
+chain
+xích
+</>
+chassis
+Khung
+</>
+chips
+Phôi
+</>
+chromium
+Crôm
+</>
+cicrumference
+Chu vi
+</>
+circumference
+Chu vi đường tròn
+</>
+clamps
+êtô
+</>
+clutch
+Hộp số
+</>
+coaches
+Toa xe
+</>
+coat
+Phủ lên,lớp vỏ
+</>
+coefficient
+Hệ số(giãn nở)
+</>
+collapsed
+Sập đổ
+</>
+collection
+Sưu tập
+</>
+combine
+Kết hợp
+</>
+common
+Phổ biến
+</>
+commonly
+Bình thường
+</>
+complex
+Nhiều chi tiết cấu thành
+</>
+complicated
+Phức tạp
+</>
+component
+Thành phần
+</>
+compound
+ghép
+</>
+comprehension
+Bao gồm,nhận biết
+</>
+compression
+Sự nén
+</>
+concentrated
+Tập trung
+</>
+concerned
+Liên quan
+</>
+concrete
+Bê tông
+</>
+condition
+Tình trạng
+</>
+consider
+Xem xét
+</>
+considerable
+dáng kể
+</>
+consists
+Bao gồm
+</>
+constitute
+Tạo thành
+</>
+consume
+Dùng hết
+</>
+contact
+Tiếp xúc
+</>
+contract
+Co lại
+</>
+copper
+dồng
+</>
+cord
+xích
+</>
+correct
+Làm mất tác hại cái gì đó
+</>
+correlate
+Tập hợp, tương quan
+</>
+corrosion
+Sự ăn mòn
+</>
+cost
+Tổn hại
+</>
+covered
+Bao phủ
+</>
+crab
+CáI tời
+</>
+cranes
+Cần trục
+</>
+crank
+Quay
+</>
+crew
+Phi hành đoàn
+</>
+crowbar
+Thanh , xà beng
+</>
+crushed
+Vỡ , nát
+</>
+cupronikels
+dồng-niken
+</>
+curves
+dường cong
+</>
+cylinder
+Vật hình trụ
+</>
+damp
+ẩm ướt
+</>
+darken
+Tối hơn
+</>
+deepen
+Làm sâu hơn
+</>
+delibrate
+Có tính toán
+</>
+depends
+ Tùy thuộc
+</>
+derived
+Ngồn gốc
+</>
+describe
+Mô tả
+</>
+designed
+Thiết kế
+</>
+destroy
+Phá hủy
+</>
+destruction
+Sự Phá hủy
+</>
+determine
+dịnh rõ
+</>
+diagram
+Biểu đồ
+</>
+differs
+Khác
+</>
+dimension
+kích thước
+</>
+direction
+Hướng, chiều
+</>
+disadvantages
+Tình trạng bất ổn 
+</>
+dissimilar
+Khác
+</>
+dissipates
+Tiêu hao
+</>
+distance
+Khoảng cách
+</>
+distinguish
+Quay tít
+</>
+distort
+Biến dạng
+</>
+distortion
+Biến dạng
+</>
+disturbance
+Nhiễu loạn
+</>
+divide
+Phân lọai
+</>
+divided
+Chia
+</>
+divisions
+Phân chia
+</>
+downward
+Xuôi,giảm,hướng xuống dưới
+</>
+draw
+vẽ
+</>
+drill
+Máy khoan
+</>
+drives
+Lái
+</>
+dry
+Khô
+</>
+ductile
+Dễ uốn
+</>
+earth
+TráI đất
+</>
+eccentric
+Bánh lệch tâm,đĩa lệch tâm
+</>
+economical
+Kinh tế
+</>
+edge
+Cạnh , gờ
+</>
+effect
+Hiệu ứng
+</>
+efficiency
+Có khả năng
+</>
+effort
+Tác dụng
+</>
+elastic
+dàn hồi
+</>
+element
+Thành phần
+</>
+eliminated
+Loại bỏ
+</>
+engaging
+Mẫu mã
+</>
+engine
+Máy
+</>
+ensures
+Bảo đảm
+</>
+equal
+Tương đương
+</>
+equilibrum
+Sự cân bằng
+</>
+equipment
+dồ dùng cần thiết
+</>
+escapes
+Thoát ra
+</>
+essential
+Thực chất , căn bản.
+</>
+even
+Thậm chí
+</>
+even(adj)
+dều
+</>
+eventually
+Sau cùng
+</>
+example
+thí dụ
+</>
+exceed
+vượt quá
+</>
+exert
+Tác động
+</>
+exerted
+Gây ra
+</>
+exists
+Tồn tại
+</>
+expand
+Khai triển, nở ra
+</>
+experiment
+thí nghiệm
+</>
+experrience
+TrảI qua
+</>
+exposed
+Phô bày
+</>
+express
+Trình bày,tàu tốc hành
+</>
+expressed
+ép ,co 
+</>
+extend
+kéo dài
+</>
+extension
+dơn vị dài
+</>
+extracted
+Cô đặc
+</>
+extremely
+Vô cùng ,cực độ
+</>
+factors
+Hệ số
+</>
+fails
+Hỏng
+</>
+failure
+Sự vỡ
+</>
+fatigue
+Giảm tải
+</>
+ferrous
+Chứa sắt
+</>
+fibres
+Sợi
+</>
+fight
+đẩy lui
+</>
+fills
+Lấp đầy
+</>
+film
+Phủ lớp màng
+</>
+filter
+Bộ lọc
+</>
+fixed
+Cố định
+</>
+flanges
+Cạnh
+</>
+flattest
+Bằng phẳng
+</>
+flexible
+Mềm , dẻo ,dễ uốn
+</>
+flow
+Chảy
+</>
+fluid
+Dòng lưu chất
+</>
+forearm
+Cẳng tay
+</>
+form
+Cấu tạo
+</>
+formable
+Hình thức, hình dáng
+</>
+former
+Trước ,xưa
+</>
+formula
+Cách thức
+</>
+fractures
+Gãy nứt
+</>
+frame
+Khung ,sườn xe
+</>
+freak
+Có vết
+</>
+frequently
+Thường xuyên
+</>
+friction
+Ma sat
+</>
+fulcrum
+diểm tựa
+</>
+galvanic
+Pin
+</>
+gauge
+Máy đo tiêu chuẩn
+</>
+gear
+Bánh răng
+</>
+generality
+Nguên tắc chung
+</>
+generalizations
+KháI quát hóa
+</>
+generalizations
+Khái quát hóa
+</>
+girders
+Rầm cầu
+</>
+glance
+Liếc mắt nhìn chi tiết
+</>
+gradually
+Dần dần
+</>
+grammes
+Gram
+</>
+groups
+vị trí
+</>
+halve
+Giảm
+</>
+handle
+Tay cầm
+</>
+harden
+Làm cho cứng lại
+</>
+hardness
+dộ cứng
+</>
+harm
+Gây tổn hại
+</>
+heel
+diểm cong
+</>
+hence
+Do đó
+</>
+hills
+Gồ ghề
+</>
+hinge
+Bản lề
+</>
+hoisting
+Nhấc lên
+</>
+hold
+Giữ
+</>
+hoop
+Vành đai, bao quanh
+</>
+horizontal
+Ngang
+</>
+hose
+ống vòi
+</>
+however
+Dù thế nào
+</>
+idlers
+Bánh răng đệ
+</>
+ignites
+kích động, đốt cháy
+</>
+ignorance
+Sự không biết
+</>
+illustrade
+In tranh mẫu
+</>
+illustrate
+Minh họa, biểu đồ
+</>
+imagine
+Tưởng tượng
+</>
+impact
+Va chạm
+</>
+imperfect
+Không hoàn hảo
+</>
+implies
+Biểu thị
+</>
+imposes
+chịu đựng
+</>
+improve
+Cải tiến
+</>
+improves
+Cải thiện
+</>
+include
+Bao gồm
+</>
+incorporated
+Hợp thành
+</>
+increase
+Tăng lên
+</>
+independent
+Không tập trung
+</>
+indicate
+chỉ ra
+</>
+infinite
+Lượng vô hạn
+</>
+influence
+ảnh hưởng
+</>
+ingeneral
+Nhìn chung
+</>
+inspection
+quan sát
+</>
+instance
+thí dụ, minh họa
+</>
+intermediate
+Vật trung gian
+</>
+involve
+Bao gồm
+</>
+isolation
+Cô lập
+</>
+italics
+In nghiêng
+</>
+jack
+kích xe
+</>
+join
+Kết hợp
+</>
+joined
+ghép nối
+</>
+joining
+Kết hợp, nối
+</>
+karibadam
+dập kariba
+</>
+laminates
+Cán mỏng
+</>
+lath
+Máy tiện
+</>
+layer
+Lớp
+</>
+less
+kém hơn
+</>
+level
+Ngang bằng
+</>
+lever
+Cần đẩy
+</>
+lift
+Nâng lên
+</>
+limit
+Giới hạn
+</>
+linear
+Tuyến tính,đường kẻ
+</>
+linked
+Kết nối
+</>
+liquid
+Chất lỏng
+</>
+loads
+Tải trọng
+</>
+longitudinal
+Chồng lên theo chiều dọc
+</>
+lower
+Dưới thấp
